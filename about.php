@@ -168,14 +168,14 @@
 					</div>
 				</div>
 				<div class="user-con-content darkmode-txt">
-					<div class='user-img-avatar' style="background: url('/img/users/afterglow.png') no-repeat center; background-size: cover;">
+					<div class='user-img-avatar' style="background: url('/img/users/gamesquad.png') no-repeat center; background-size: cover;">
 						<div class='user-img-flag' style="background: url('/img/graphics/flags/russia.png') no-repeat center; background-size: cover;">
 						</div>
 					</div>
 					<div class="user-con-wrapper">
 						<div class='user-tx1-content darkmode-txt'>
 							<span class="user-tx2-member ">
-							AfterGlow </span>
+							GameSquad </span>
 							<span class="user-con-role user-role-web">
 							Дискорд сервер </span>
 						</div>
